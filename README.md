@@ -7,6 +7,7 @@ Lucas Tindall, ltindall@ucsd.edu
 ## Abstract Proposal
 
 FIRST STEP: Write up a description (in the form of an abstract) of what you will revisit for your final project. This should be one paragraph clearly describing your concept and approach. What are your desired creative goals? How are you expanding on something we covered in the class? How will you present your work next Wednesday in the final project presentations? 
+In this project I plan to use a GAN for the transformation of real human faces to cartoon faces. A CycleGAN will be used to learn the transformation between the two image style domains. 
 
 ## Project Report
 
