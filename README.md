@@ -1,6 +1,6 @@
 # Final Project
 
-Your Name, yourcontact@ucsd.edu
+Lucas Tindall, ltindall@ucsd.edu
 
 (Your teammates' contact info, if appropriate)
 
